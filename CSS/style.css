@@ -1,0 +1,13 @@
+label {
+	font-size: 25px;
+}
+.wrapper {
+	width: 60%;
+	margin: 0 auto;
+	border: 5px solid grey;
+}
+.first_name, .last_name , .email_address, .password, .gender, .educational_qualification{
+	width: 90%;
+	height: 20px;
+	padding: 10px;
+}
